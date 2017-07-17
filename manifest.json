@@ -10,8 +10,6 @@
     "matches": [ "https://code.earthengine.google.com/"]
   }],
   "icons": {
-    "16": "icon16.png",
-    "32": "icon32.png",
     "128": "icon128.png"
   },
   "page_action": {
