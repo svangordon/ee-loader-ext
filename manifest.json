@@ -9,6 +9,11 @@
     "js": [ "content_script.js" ],
     "matches": [ "https://code.earthengine.google.com/"]
   }],
+  "icons": {
+    "16": "icon16.png",
+    "32": "icon32.png",
+    "128": "icon128.png"
+  },
   "page_action": {
     "default_title": "ee-loader",
     "default_icon": "icon2.png"
