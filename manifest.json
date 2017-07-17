@@ -1,7 +1,7 @@
 {
   "name": "EE Loader",
   "description": "This extension automatically loads and runs Google Earth Engine code.",
-  "version": "1.2",
+  "version": "0.0.1",
   "background": {
     "page": "background.html"
   },
